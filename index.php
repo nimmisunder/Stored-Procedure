@@ -35,3 +35,8 @@ BEGIN
 END $$
 
 DELIMITER ;
+
+
+A Stored Procedure is a precompiled set of SQL statements stored in the database that can be executed whenever needed.
+
+It helps to reuse SQL code, improve performance, and reduce network traffic.
